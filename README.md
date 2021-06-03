@@ -1,5 +1,5 @@
 @jehu26
-- comp math, bio, linguistics, C++, LaTeX, Asy
+- comp math, biology, linguistics, C++, LaTeX, Asy
 - jehu26 on AoPS, jehu.26 on Instagram
 
 <!---
