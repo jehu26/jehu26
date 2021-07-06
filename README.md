@@ -1,6 +1,6 @@
 @jehu26
 - competition math, earth science, linguistics
-- C++, LaTeX, Asy
+- C++, LaTeX, Asymptote
 - 2021 AIME qualification (123 on 10A)
 - jehu26 on AoPS, jehu.26 on Instagram
 
