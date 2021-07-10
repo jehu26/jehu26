@@ -1,6 +1,6 @@
 - competition math, programming, linguistics
 - English, 简体字, 日本語, C++, LaTeX, Asymptote
-- AoPS: jehu26, Instagram: jehu.26
+
 
 <!---
 jehu26/jehu26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
