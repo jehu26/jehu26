@@ -1,4 +1,3 @@
-@jehu26
 - competition math, programming, linguistics
 - English, 简体字, 日本語, C++, LaTeX, Asymptote
 - 2021 AIME qualification (123 on 10A)
